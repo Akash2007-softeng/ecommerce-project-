@@ -2,7 +2,7 @@
 continuation of the ecommerce project week2
 #  continuation of the ecomeerce project week 2
 ##  Project Overview
-This is a basic e-commerce website developed as part of my internship project.  
+This is a basic e-commerce website developed as part of my coding time.  
 In Week 2, the project was continued by adding more products and implementing a total price calculation feature.
 ##  Features
 - Display multiple products
